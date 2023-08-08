@@ -1,0 +1,7 @@
+js_out/
+gen/
+data/
+input_local
+node_modules
+package-lock.json
+.DS_Store
