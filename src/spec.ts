@@ -8,7 +8,7 @@ export const specification: DataSource.Specification = {
     // ---
     provides: [ "weather_forecast", "weather_now" ],
     // ---
-    version:   "0.1.1",
+    version:   "0.1.2",
     // ---
     translations: {
         'en': { name: "MeteoMedia Weather Forecast", description: "Weather data from MeteoMedia Websites" }

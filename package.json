@@ -1,6 +1,6 @@
 {
     "name": "script-weather-meteomedia",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "define at src/spec.ts",
     "main": "src/script.ts",
     "config": {
